@@ -1,7 +1,13 @@
-package com.example;
+package com;
 
-public class MyApp {
-    public static void main(String[] args) {
-        System.out.println("Hello, Maven World!");
+/**
+ * Hello world! Updated version
+ *
+ */
+public class App 
+{
+    public static void main(String[] args) 
+    {
+        System.out.println("Hello World! This is an updated version.");
     }
 }
